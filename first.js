@@ -1,2 +1,2 @@
-fullname = "John Doe"  
+fullname = "John Dom"  
 console.log(fullname);
