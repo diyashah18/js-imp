@@ -1,2 +1,4 @@
-fullname = "John Dom"  
-console.log(fullname);
+let name = "diya shah";
+console.log(name);
+
+
